@@ -1,0 +1,11 @@
+.titulo-tabuada{
+    color:#115d1d;
+}
+
+.tabuada .linha-tabuada{
+    margin:0;
+    list-style-type: none;
+    background-color: #a1c3a6;
+    padding: 4px;
+    border-bottom: #115d1d 1px solid;
+}
